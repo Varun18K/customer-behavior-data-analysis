@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Databases
+*.db
+*.sqlite
+
+# Power BI
+*.pbix.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
