@@ -154,17 +154,10 @@ cd customer-behavior-data-analysis
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-Feel free to fork, star ⭐, and use it for learning or portfolio purposes.
-
----
-
 ## 👤 Author
 
 **Varun Karle**
 Aspiring Data Analyst | SQL · Python · Power BI
 
 
-Just tell me what’s next.
+
